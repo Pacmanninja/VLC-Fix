@@ -42,8 +42,7 @@ if not exist "%VLC_EXE%" (
 echo VLC found at:
 echo "%VLC_EXE%"
 echo.
-echo Resetting VLC configuration and plugin cache...
-echo This removes your VLC preferences and custom settings.
+echo Resetting VLC plugin cache...
 echo.
 
 "%VLC_EXE%" --reset-plugins-cache vlc://quit
