@@ -8,4 +8,4 @@ Fix slow opening VLC due to Windows defender
 
 `"C:\Program Files\VideoLAN\VLC\vlc.exe" --reset-plugins-cache vlc://quit`
 
-Optionally download and run the batch file tool to find VLC and reset the cache that way.
+Optionally [download](https://raw.githubusercontent.com/Pacmanninja/VLC-Fix/refs/heads/main/vlc_fix.bat "download") and run the batch file tool to find VLC and reset the cache that way.
